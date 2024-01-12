@@ -12,14 +12,13 @@
 git clone https://github.com/boyphadung/fibonacci-API.git
 ```
 
-2. ติดตั้ง node.js 
+2. ติดตั้ง express.js
 ```bash
 npm install init -y
 ```
 
-3. ติดตั้ง express.js และ nodemon
+3. ติดตั้ง  nodemon
 ```bash
-npm install express
 npm install -g nodemon 
 ```
 
@@ -33,7 +32,7 @@ npm run dev
 ```bash
 npm install swagger-jsdoc swagger-ui-express 
 ```
-Swagger UI : http://localhost:3000/api/docs
+Swagger UI : http://localhost:3000/docs
 
 
 
