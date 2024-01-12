@@ -14,7 +14,7 @@ git clone https://github.com/boyphadung/fibonacci-API.git
 
 2. ติดตั้ง express.js
 ```bash
-npm install init -y
+npm install express
 ```
 
 3. ติดตั้ง  nodemon
